@@ -1,0 +1,1190 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.product-detail-S3V {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #fffbfb;
+}
+.product-detail-S3V .auto-group-c6f5-MgF {
+  width: 168.8rem;
+  height: 65.56rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .ellipse-7-4qZ {
+  width: 35.6rem;
+  height: 30.7rem;
+  position: absolute;
+  left: 70rem;
+  top: 16.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .ellipse-6-NrF {
+  width: 45.1rem;
+  height: 25.4rem;
+  position: absolute;
+  left: 0;
+  top: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD {
+  width: 144rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-bottom: solid 0.1rem rgba(247, 247, 252, 0.400000006);
+  box-sizing: border-box;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR {
+  width: 100%;
+  height: 7.8rem;
+  position: relative;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .rectangle-1-Qnw {
+  opacity: 0;
+  width: 144rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(255, 251, 251, 0);
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq {
+  width: 57.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 43.4371rem;
+  top: 4.2rem;
+  display: flex;
+  column-gap: 5rem;
+  align-items: center;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .group-3-3qu {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .group-3-3qu .men-Cio {
+  margin-right: 1rem;
+  text-align: right;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .group-3-3qu .ellipse-4-iBM {
+  margin-top: 0.2rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: #872437;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .group-4-qFy {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .group-4-qFy .women-bW3 {
+  margin-right: 1rem;
+  text-align: right;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .group-4-qFy .ellipse-4-j6T {
+  margin-top: 0.2rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: #872437;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .group-5-To9 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .group-5-To9 .casual-wear-Rzs {
+  margin-right: 1rem;
+  text-align: right;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .group-5-To9 .ellipse-4-N9R {
+  margin-top: 0.2rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: #872437;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .frame-1-8yq .clothing-material-hhV {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .group-15-pn7 {
+  width: 8.5rem;
+  height: 2.5021rem;
+  position: absolute;
+  left: 125rem;
+  top: 2.7917rem;
+  display: flex;
+  align-items: center;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .group-15-pn7 .user-account-people-man-x7d {
+  margin-right: 2.9615rem;
+  width: 2.5385rem;
+  height: 2.5021rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .group-15-pn7 .g1265-t1H {
+  margin-bottom: 0rem;
+  width: 3rem;
+  height: 2.5021rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-13-ifD .auto-group-sapt-rmR .ar-style-pQj {
+  width: 14.6rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 2.3rem;
+  font-size: 4.2968rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #882437;
+  font-family: Impact, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .african-embroidered-lehenga-set-6NF {
+  width: 38.2rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 7rem;
+  top: 20.3rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: rgba(30, 30, 30, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-c6f5-MgF .n2500-aHR {
+  width: 8.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 21.3rem;
+  top: 43.4rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2190000216;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .n2500-aHR .n2500-aHR-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  text-decoration-line: line-through;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-c6f5-MgF .n2500-aHR .n2500-aHR-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-c6f5-MgF .frame-6-cNX {
+  width: 11.3rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 7rem;
+  top: 41.6rem;
+  overflow: hidden;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #1e1e1e;
+  box-sizing: border-box;
+  border-radius: 4rem;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-11-eq1 {
+  width: 59.293rem;
+  height: 56.16rem;
+  cursor: pointer;
+  position: absolute;
+  left: 77.5rem;
+  top: 9.4rem;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-11-eq1 .vector-yMV {
+  width: 47.4rem;
+  height: 56.16rem;
+  position: absolute;
+  left: 5.7001rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-11-eq1 .swiftxr-1-Jef {
+  width: 37.6rem;
+  height: 55.1995rem;
+  position: relative;
+  left: 10.0001rem;
+  top: 0.0431rem;
+  background-size: 245.623% 123.551%;
+  background-position: -27.1771rem -4.8rem;
+  background-image: url('../assets/swiftxr-1-84T.png');
+}
+.product-detail-S3V .auto-group-c6f5-MgF .group-11-eq1 .ellipse-5-NuR {
+  width: 59.293rem;
+  height: 22.5715rem;
+  position: absolute;
+  left: 0;
+  top: 2.0629rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .designed-for-the-queens-and-princesses-of-africa-JYB {
+  width: 34.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 29.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-c6f5-MgF .available-in-different-prints-yPR {
+  width: 22.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 7rem;
+  top: 37.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .available-in-different-prints-fn3 {
+  width: 22.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 50.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .rectangle-12-ZsR {
+  width: 8.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 54.3rem;
+  background-color: #25148f;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .rectangle-13-JKD {
+  width: 8.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 17.5rem;
+  top: 54.3rem;
+  background-color: #882437;
+}
+.product-detail-S3V .auto-group-c6f5-MgF .rectangle-14-e8B {
+  width: 8.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 28.3rem;
+  top: 54.3rem;
+  background-color: #e9ab26;
+}
+.product-detail-S3V .auto-group-zddm-ygF {
+  box-sizing: border-box;
+  padding: 0.04rem 0rem 48rem 0rem;
+  width: 100%;
+  row-gap: 1.9rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM {
+  margin-right: 1.8283rem;
+  width: 149.0717rem;
+  height: 30.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .vector-pwm {
+  width: 149.0717rem;
+  height: 10.7402rem;
+  position: absolute;
+  left: 0;
+  top: 18.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .group-22-Akj {
+  width: 130.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 24.9rem;
+  display: flex;
+  align-items: center;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .group-22-Akj .auto-group-synj-6uH {
+  margin-right: 75.6rem;
+  width: 43.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .group-22-Akj .auto-group-synj-6uH .similar-products-rNf {
+  width: 41.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #4d4a4a;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .group-22-Akj .auto-group-synj-6uH .line-3-kyq {
+  width: 10rem;
+  height: 0;
+  position: absolute;
+  left: 33.7rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .group-22-Akj .group-17-u63 {
+  margin: 1.8rem 0rem 1.6rem 0rem;
+  height: calc(100% - 3.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .group-22-Akj .group-17-u63 .view-all-2RZ {
+  margin-right: 1rem;
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #4d4a4a;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .group-22-Akj .group-17-u63 .group-16-Mij {
+  margin-top: 0.22rem;
+  width: 2.1rem;
+  height: 1.52rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .frame-131-VK9 {
+  width: 14.8rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 83.4rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .frame-131-VK9 .swiftxr-1-RCo {
+  width: 14.8rem;
+  height: 21.2rem;
+  position: relative;
+  background-size: 135.135% 110.61%;
+  background-position: -2.2rem -1.9999rem;
+  background-image: url('../assets/swiftxr-1-1kf.png');
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .frame-131-VK9 .back-vQT {
+  margin-right: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .frame-132-TQP {
+  width: 14.3rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 99.8rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .frame-132-TQP .swiftxr-1-oDM {
+  width: 14.3rem;
+  height: 21.2rem;
+  position: relative;
+  background-size: 139.86% 113.278%;
+  background-position: -3.2rem -1.4074rem;
+  background-image: url('../assets/swiftxr-1-AHh.png');
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .frame-132-TQP .side-cwV {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .frame-133-xEf {
+  width: 14.7rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 116.2rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .frame-133-xEf .swiftxr-4-raw {
+  width: 14.7rem;
+  height: 21.2rem;
+  position: relative;
+  background-size: 148.028% 115.045%;
+  background-position: -3.0108rem -0.8713rem;
+  background-image: url('../assets/swiftxr-4.png');
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-gxwj-hMM .frame-133-xEf .front-xdy {
+  margin-right: 0.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-cdxy-V87 {
+  margin: 0 6.8rem;
+  width: calc(100% - 13.6rem);
+  height: 42rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-cdxy-V87 .frame-118-Qks {
+  box-sizing: border-box;
+  padding: 2rem 0;
+  width: 30.8rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-6g3.png');
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-cdxy-V87 .frame-118-Qks .swiftxr-2-xnP {
+  width: 25.9rem;
+  height: 38rem;
+  position: relative;
+  background-size: 135.135% 113.725%;
+  background-position: -4.6rem -4.1077rem;
+  background-image: url('../assets/swiftxr-2-swh.png');
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-cdxy-V87 .frame-117-3Yw {
+  box-sizing: border-box;
+  padding: 2.8rem 6.3rem 1.9rem 6.3rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-WgB.png');
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-cdxy-V87 .frame-117-3Yw .swiftxr-1-Bf9 {
+  width: 18.2rem;
+  height: 37.3rem;
+  position: relative;
+  background-size: 188.748% 111.285%;
+  background-position: -5.5094rem -0rem;
+  background-image: url('../assets/swiftxr-1-kw5.png');
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-cdxy-V87 .frame-116-5kX {
+  box-sizing: border-box;
+  padding-top: 4.9rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-ahZ.png');
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-cdxy-V87 .frame-116-5kX .swiftxr-1-EtK {
+  width: 30.8rem;
+  height: 37.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-cdxy-V87 .frame-119-Njd {
+  box-sizing: border-box;
+  padding: 1.6rem 5.5rem 1.6rem 5.6rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-FQw.png');
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-cdxy-V87 .frame-119-Njd .swiftxr-2-KPy {
+  width: 19.7rem;
+  height: 38.8rem;
+  position: relative;
+  background-size: 165.289% 103.759%;
+  background-position: -7.4893rem 0.086rem;
+  background-image: url('../assets/swiftxr-2-yis.png');
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM {
+  margin-right: 7.8rem;
+  width: 173.3rem;
+  height: 151.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .vector-vuZ {
+  width: 63.4982rem;
+  height: 63.4982rem;
+  position: absolute;
+  left: 0;
+  top: 54.5509rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .ellipse-13-51m {
+  width: 58.4rem;
+  height: 44.2rem;
+  position: absolute;
+  left: 0;
+  top: 107.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT {
+  width: 130.2rem;
+  height: 39.7rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 15.6rem;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT .rectangle-11-YAF {
+  width: 130.2rem;
+  height: 38.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT .group-46-FqM {
+  width: 43.575rem;
+  height: 33.1rem;
+  position: absolute;
+  left: 8.1527rem;
+  top: 0;
+  border-radius: 4rem;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT .group-46-FqM .new-arrival-ymM {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: rgba(30, 30, 30, 0.6000000238);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT .group-46-FqM .with-our-ar-technology-you-can-view-clothes-in-your-home-in-real-time-before-you-buy-uQ7 {
+  margin-bottom: 2.4rem;
+  max-width: 39.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT .group-46-FqM .frame-5-am9 {
+  width: 13.2rem;
+  height: 5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #1e1e1e;
+  box-sizing: border-box;
+  border-radius: 4rem;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT .group-11237-4AX {
+  width: 67.725rem;
+  height: 30.8rem;
+  position: absolute;
+  left: 59.0776rem;
+  top: 1.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT .group-11237-4AX .image-8-PCo {
+  margin-right: 3.57rem;
+  width: 20.16rem;
+  height: 26.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT .group-11237-4AX .image-9-vCj {
+  margin: 4rem 3.675rem 0rem 0rem;
+  width: 20.16rem;
+  height: 26.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .group-47-oiT .group-11237-4AX .image-10-Ez7 {
+  width: 20.16rem;
+  height: 26.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu {
+  width: 126.7rem;
+  height: 28.9rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 64.4rem;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq {
+  width: 126.7rem;
+  height: 27.5rem;
+  position: absolute;
+  left: 0;
+  top: 1.4rem;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK {
+  margin-bottom: 3.2rem;
+  height: 20.3rem;
+  display: flex;
+  align-items: center;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .with-our-ar-technology-you-can-view-clothes-in-your-home-in-real-time-before-you-buy-Bns {
+  margin: 0rem 15.6rem 1.7rem 0rem;
+  max-width: 22rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: rgba(30, 30, 30, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-54-TkP {
+  margin-right: 7.9rem;
+  width: 14.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-54-TkP .quick-link-cNP {
+  margin-bottom: 2.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-54-TkP .group-53-LZH {
+  width: 100%;
+  row-gap: 2.2rem;
+  display: flex;
+  flex-direction: column;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-54-TkP .group-53-LZH .men-UfV {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-54-TkP .group-53-LZH .women-pDZ {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-54-TkP .group-53-LZH .casual-wears-YvF {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-54-TkP .group-53-LZH .clothing-marterial-Hcw {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-55-pMy {
+  margin: 0rem 12.7rem 4.2rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-55-pMy .ar-style-Mco {
+  margin-bottom: 2.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-55-pMy .group-53-hAs {
+  row-gap: 2.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-55-pMy .group-53-hAs .about-us-Su9 {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-55-pMy .group-53-hAs .contact-us-ni7 {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-55-pMy .group-53-hAs .blog-XQo {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-56-rxs {
+  width: 15.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-56-rxs .policies-pPu {
+  margin-bottom: 2.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-56-rxs .group-53-xW7 {
+  width: 100%;
+  row-gap: 2.2rem;
+  display: flex;
+  flex-direction: column;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-56-rxs .group-53-xW7 .terms-conditions-ugF {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-56-rxs .group-53-xW7 .delivery-FVD {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-56-rxs .group-53-xW7 .return-Q7D {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .auto-group-22gt-FeK .group-56-rxs .group-53-xW7 .payment-policy-kRy {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .line-3-gaX {
+  margin: 0rem 0rem 2rem 2.7rem;
+  width: 124rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .footer-WRq .swiftxr-global-design-challenge-all-rights-reserved-RHD {
+  margin-left: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .footer-yRu .ar-style-Xb9 {
+  width: 14.6rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4.2968rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #882437;
+  font-family: Impact, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .ellipse-15-3ZV {
+  width: 35.6rem;
+  height: 30.7rem;
+  position: absolute;
+  left: 44.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-ZXq {
+  width: 7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 30.1rem;
+  top: 7.8rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.218999958;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-ZXq .n2500-ZXq-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  text-decoration-line: line-through;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-ZXq .n2500-ZXq-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-sS3 {
+  width: 7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.218999958;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-sS3 .n2500-sS3-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  text-decoration-line: line-through;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-sS3 .n2500-sS3-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-SdZ {
+  width: 7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 95.7rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.218999958;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-SdZ .n2500-SdZ-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  text-decoration-line: line-through;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-SdZ .n2500-SdZ-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-1q5 {
+  width: 7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 129.2rem;
+  top: 6.7rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.218999958;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-1q5 .n2500-1q5-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  text-decoration-line: line-through;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .n2500-1q5 .n2500-1q5-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .add-to-cart-a11 {
+  width: 8.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 8.35rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .add-to-cart-sko {
+  width: 8.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 39.7rem;
+  top: 8.15rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .add-to-cart-PUF {
+  width: 8.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 72.5rem;
+  top: 8.15rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .add-to-cart-VnB {
+  width: 8.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 106rem;
+  top: 8.15rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #1e1e1e;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .multi-color-net-embroidered-lehenga-set-cbu {
+  width: 23.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: rgba(30, 30, 30, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .multi-color-net-embroidered-lehenga-set-KFR {
+  width: 23.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 39.1rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: rgba(30, 30, 30, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .multi-color-net-embroidered-lehenga-set-owH {
+  width: 23.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 71.9rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: rgba(30, 30, 30, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.product-detail-S3V .auto-group-zddm-ygF .auto-group-u1tq-DVM .multi-color-net-embroidered-lehenga-set-Kej {
+  width: 23.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: rgba(30, 30, 30, 0.6999999881);
+  font-family: Montserrat, 'Source Sans Pro';
+}
