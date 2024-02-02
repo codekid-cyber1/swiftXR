@@ -854,13 +854,33 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.vector-ysZ-about .lt{
+.vector-ysZ-about-lt{
   width: 44.6rem;
   height: 58rem;
   position: absolute;
   background: transparent;
-  left: 40rem;
+  right: 12.5rem;
   top: 25.5rem;
   object-fit: contain;
   vertical-align: top;
 }
+.vector-ysZ-about-rd{
+  width: 44.6rem;
+  height: 58rem;
+  position: absolute;
+  background: transparent;
+  left: 16.5rem;
+  top: 25.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+/* .vector-ysZ-about-lt{
+  width: 44.6rem;
+  height: 58rem;
+  position: absolute;
+  background: transparent;
+  right: 12.5rem;
+  top: 25.5rem;
+  object-fit: contain;
+  vertical-align: top;
+} */
