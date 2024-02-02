@@ -450,6 +450,7 @@ body {
   width: 44.6rem;
   height: 44.5372rem;
   position: absolute;
+  background: transparent;
   left: 7.1rem;
   top: 0.9376rem;
   object-fit: contain;
@@ -810,14 +811,14 @@ body {
 .homepage-RNK .auto-group-kacj-b8F .frame-137-ySs .frame-135-htf .f1-Tsq {
   margin-right: 11.901rem;
   width: 56.1995rem;
-  height: 84.2992rem;
+  height: 70.2992rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
 .homepage-RNK .auto-group-kacj-b8F .frame-137-ySs .frame-135-htf .f1-D6K {
   width: 56.1995rem;
-  height: 84.2992rem;
+  height: 70.2992rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
@@ -831,15 +832,35 @@ body {
 .homepage-RNK .auto-group-kacj-b8F .frame-137-ySs .frame-136-kc3 .f1-Wr7 {
   margin-right: 11.901rem;
   width: 56.1995rem;
-  height: 84.2992rem;
+  height: 70.2992rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
 .homepage-RNK .auto-group-kacj-b8F .frame-137-ySs .frame-136-kc3 .f1-rQB {
   width: 56.1995rem;
-  height: 84.2992rem;
+  height: 70.2992rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
+}
+.vector-ysZ-about {
+  width: 44.6rem;
+  height: 58rem;
+  position: absolute;
+  background: transparent;
+  left: 16.5rem;
+  top: 25.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.vector-ysZ-about .lt{
+  width: 44.6rem;
+  height: 58rem;
+  position: absolute;
+  background: transparent;
+  left: 40rem;
+  top: 25.5rem;
+  object-fit: contain;
+  vertical-align: top;
 }
